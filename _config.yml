@@ -10,7 +10,7 @@ author: Sankarshan Mridha
 # email: sanakarshan7@gmail.com
 permalink: /papersummary/:categories/:year/:month/:day/:title/ #/papersummary/:year/:month/:day/:title:output_ext
 theme: minima
-
+highlighter: rouge
 # collections:
 #   posts:
 #     output: true
