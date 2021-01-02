@@ -9,7 +9,7 @@ description: On machine learning, deep learning, nlp, computer vision, statistic
 author: Sankarshan Mridha
 # email: sanakarshan7@gmail.com
 
-permalink: /papersummary/:category/:year/:month/:day/:title 
+permalink: /papersummary/:category/:year/:month/:day/:title
 
 # /blog/:year/:month/:day/:title
 
