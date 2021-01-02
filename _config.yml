@@ -14,6 +14,7 @@ permalink: /papersummary/:category/:year/:month/:day/:title
 # /:category/:year/:month/:day/:title/
 # /blog/:year/:month/:day/:title
 
+
 # Build Setting
 markdown: kramdown
 theme: minima
