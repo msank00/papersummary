@@ -1,19 +1,14 @@
 ---
-layout: post
-title:  "Paper 1"
-date:   2020-12-30 00:00:10 -0030
-categories: jekyll update
-mathjax: true
+layout: default
+title: Home
 ---
 
+###  :wave: Hi there,
 
+Thanks for stopping by.
 
-# Coming soon ...
+:rocket: I am a self-motivated individual with keen interest in **Machine Learning, Deep Learning and Natural Language Processing**. This blog is to maintain `summary` of those `paper` which I found interesting and aligned with my work.
 
-Happy New year 2021 !!
+More coming soon ...
 
-----
-
-:dart:
-
-----
+---------
