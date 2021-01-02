@@ -1,19 +1,18 @@
-name: Paper Summary
-title: Paper Summary
-url: https://msank00.github.io/
+name: Sankarshan Mridha's blog
+title: Sankarshan Mridha
+url: https://msank00.github.io
 baseurl: "/papersummary"
 twitter_username: imridhasankar
-github_username: msank00
+github_username:  msank00
 linkedin_username: sankarshanmridha
-description: Paper summary
+description: On machine learning, deep learning, nlp, computer vision, statistics and other areas of data science
 author: Sankarshan Mridha
 # email: sanakarshan7@gmail.com
-permalink: /sachin/:category/:year/:month/:day/:title
-
-
-# Build Setting
-markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
 theme: minima
+
+# Conversion
+markdown: kramdown
 
 plugins:
   - "disqus-for-jekyll"
