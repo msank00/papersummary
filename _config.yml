@@ -1,7 +1,7 @@
 name: Paper Summary
 title: Paper Summary
 url: https://msank00.github.io/papersummary/
-baseurl: ""
+baseurl: "/papersummary"
 twitter_username: imridhasankar
 github_username:  msank00
 linkedin_username: sankarshanmridha
