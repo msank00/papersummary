@@ -2,7 +2,7 @@
 layout: post
 title:  "Scalable Machine Learning New"
 date:   2021-01-01 00:00:10 -0030
-categories: jekyll update
+categories: deeplearning
 mathjax: true
 ---
 
