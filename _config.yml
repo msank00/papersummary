@@ -8,7 +8,7 @@ linkedin_username: sankarshanmridha
 description: On machine learning, deep learning, nlp, computer vision, statistics and other areas of data science
 author: Sankarshan Mridha
 # email: sanakarshan7@gmail.com
-permalink: pretty #/papersummary/:year/:month/:day/:title:output_ext
+permalink: /:categories/:year/:month/:day/:title/ 
 theme: minima
 
 # collections:
