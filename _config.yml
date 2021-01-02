@@ -10,7 +10,7 @@ author: Sankarshan Mridha
 # email: sanakarshan7@gmail.com
 include: ['_posts']
 
-permalink: "/about/" 
+permalink: /papersummary/blog/:year/:month/:day/:title 
 
 # /blog/:year/:month/:day/:title
 
