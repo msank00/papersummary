@@ -14,7 +14,7 @@ theme: minima
 collections:
   posts:
     output: true
-    permalink: /papersummary/:path   # :path
+    permalink: /papersummary/:path  # :path
 
 
 # Conversion
