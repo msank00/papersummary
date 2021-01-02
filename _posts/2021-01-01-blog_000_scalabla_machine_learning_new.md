@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scalable Machine Learning"
-date:   2020-12-01 00:00:10 -0030
+title:  "Scalable Machine Learning New"
+date:   2021-01-01 00:00:10 -0030
 categories: jekyll update
 mathjax: true
 ---
