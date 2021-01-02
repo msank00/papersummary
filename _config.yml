@@ -12,3 +12,16 @@ permalink: /blog/:year/:month/:day/:title
 theme: minima
 
 # theme: jekyll-theme-minimal
+
+# Conversion
+markdown: kramdown
+
+plugins:
+  - "disqus-for-jekyll"
+  - jekyll-feed
+  - jemoji
+
+header_pages:
+  #- resume.md
+  - blog/index.html
+  - index.md
