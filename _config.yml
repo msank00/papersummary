@@ -1,15 +1,15 @@
 name: Paper Summary
 title: Paper Summary
-url: https://msank00.github.io/
+url: "https://msank00.github.io/""
 baseurl: "/papersummary"
 twitter_username: imridhasankar
-github_username:  msank00
+github_username: msank00
 linkedin_username: sankarshanmridha
 description: Paper summary
 author: Sankarshan Mridha
 # email: sanakarshan7@gmail.com
 
-permalink: /sachin/:category/:year/:month/:day/:title
+permalink: "/sachin/:category/:year/:month/:day/:title"
 
 
 # /:category/:year/:month/:day/:title/
