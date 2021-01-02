@@ -17,11 +17,9 @@ theme: minima
 markdown: kramdown
 
 plugins:
-  - "disqus-for-jekyll"
   - jekyll-feed
   - jemoji
 
 header_pages:
-  #- resume.md
   - blog/index.html
   - index.md
