@@ -9,8 +9,9 @@ description: Paper summary
 author: Sankarshan Mridha
 # email: sanakarshan7@gmail.com
 
-permalink: /:category/:year/:month/:day/:title/
+permalink: /sankarshan/
 
+# /:category/:year/:month/:day/:title/
 # /blog/:year/:month/:day/:title
 
 # Build Setting
