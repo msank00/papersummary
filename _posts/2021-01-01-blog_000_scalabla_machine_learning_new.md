@@ -4,7 +4,6 @@ title:  "Scalable Machine Learning New"
 date:   2021-01-01 00:00:10 -0030
 categories: deeplearning
 mathjax: true
-permalink: /papersummary/
 ---
 
 
